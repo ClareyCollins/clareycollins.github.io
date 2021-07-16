@@ -13,6 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+masthead_title: "Clares Research"
+logo: "/assets/images/clare_scientist_2.png"
 title: Clare E Collins
 email: clare@chrisetclare.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
@@ -113,3 +115,6 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+atom_feed:
+  hide: true
