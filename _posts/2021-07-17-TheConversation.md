@@ -8,3 +8,5 @@ tags:
 ---
 
 {% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/31swapsCC.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/alt-bagCC.png" alt="this is a placeholder image" caption="This is a figure caption." %}
