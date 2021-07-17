@@ -2,7 +2,7 @@
 title: "The Conversation"
 date: 2021-07-17T01:04:30-04:00
 categories:
-  - blog
+  - resources
 tags:
   - plastic
 ---
