@@ -7,6 +7,7 @@ tags:
   - plastic
 ---
 
-{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" alt="this is a placeholder image" caption="This is a figure caption." %}
-{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/31swapsCC.png" alt="this is a placeholder image" caption="This is a figure caption." %}
-{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/alt-bagCC.png" alt="this is a placeholder image" caption="This is a figure caption." %}
+{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" alt="Infographic showing length of time coronavirus was still traceable on four different surfaces.  Still on day 7 of the surgical mask, no longer on day 7 for the plastic surface, no longer on day 2 for the cloth surface and no longer after 3 hours on the paper surface." caption="Time until no infectious virus could be recovered on different surfaces. <br>Using data from: Chin et al. (2020) DOI: 10.1016/S2666-5247(20)30003-3" %}
+{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/31swapsCC.png" alt="Infographic giving 31 swap suggestions to move away from relying on plastic waste products" caption="31 Plastic-Free July Swaps." %}
+{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/alt-bagCC.png" alt="Infographic considering environmental sustainability of different bag materials. To match 1 use of a single-use HDPE plastic bag, you would need to use a bag for life up to 10 times, a durable plastic bag up to 20 times, a single-use paper bag at least 8 times and a reusable cotton bag around 150 times." caption="Reuse alternative bags ‘n’ times to match environmental impact of single-use plastic bag.
+<br>Using data from: United Nations Environment Programme (2020). Single-use plastic bags and their alternatives - Recommendations from Life Cycle Assessments" %}
