@@ -6,4 +6,6 @@ categories:
 tags:
   - plastic
 ---
-< image src="/images/IMG_20181110_104253055-small.jpg" caption="Dallas (image)" height=480 src_s="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" src_l="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" >
+
+
+< image src="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" caption="Dallas (`image`)" height=480 src_s="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" src_l="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" >
