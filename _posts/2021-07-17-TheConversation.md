@@ -7,5 +7,4 @@ tags:
   - plastic
 ---
 
-
-< image src="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" caption="Dallas (`image`)" height=480 src_s="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" src_l="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" >
+{% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" alt="this is a placeholder image" caption="This is a figure caption." %}
