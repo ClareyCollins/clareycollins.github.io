@@ -16,3 +16,6 @@ tags:
 {% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/alt-bagCC.png" alt="Infographic considering environmental sustainability of different bag materials. To match 1 use of a single-use HDPE plastic bag, you would need to use a bag for life up to 10 times, a durable plastic bag up to 20 times, a single-use paper bag at least 8 times and a reusable cotton bag around 150 times." caption="Reuse alternative bags ‘n’ times to match environmental impact of single-use plastic bag.
 <br>Using data from: United Nations Environment Programme (2020). Single-use plastic bags and their alternatives - Recommendations from Life Cycle Assessments" %}
 <a href="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/alt-bagCC.png">alt-bagCC.png</a>
+
+{% include figure image_path="/assets/images/plasticsvsalternatives.png" alt="Photo showing single-use plastics items on the left and reusable or alternatively packaged items to the right." %}
+<a href="/assets/images/plasticsvsalternatives.png">plasticsvsalternatives.png</a>
