@@ -17,5 +17,5 @@ tags:
 <br>Using data from: United Nations Environment Programme (2020). Single-use plastic bags and their alternatives - Recommendations from Life Cycle Assessments" %}
 <a href="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/alt-bagCC.png">alt-bagCC.png</a>
 
-{% include figure image_path="/assets/images/plasticsvsalternatives.png" alt="Photo showing single-use plastics items on the left and reusable or alternatively packaged items to the right." %}
-<a href="/assets/images/plasticsvsalternatives.png">plasticsvsalternatives.png</a>
+{% include figure image_path="/assets/images/plasticvsalternatives.png" alt="Photo showing single-use plastics items on the left and reusable or alternatively packaged items to the right." %}
+<a href="/assets/images/plasticvsalternatives.png">plasticvsalternatives.png</a>
