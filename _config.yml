@@ -18,7 +18,7 @@ logo: "/assets/images/clare_scientist_2.png"
 title: Clare E Collins
 email: c.collins-2019@hull.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  I am an environmental scientist interested in understanding anthropogenic impacts on our World. My current research focus is on plastics pollution.  Find my resources, outputs and blog posts here.
+  I am a conservation biologist with interests in conservation, biodiversity and understanding anthropogenic impacts on our World. My current research uses eDNA modelling for effective biodiversity monitoring in river rewilding projects.  Find my resources, outputs and blog posts here.
 twitter_username: clareycollins
 #github_username: username
 minimal_mistakes_skin: default
@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Clare E Collins"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "I am an environmental scientist interested in understanding anthropogenic impacts on our World. My current research focus is on plastics pollution."
+  bio    : "I am a conservation biologist interested in conservation, biodiversity and understanding anthropogenic impacts on our World. My current research focus is using eDNA modelling for effective biodiversity monitoring in river rewilding projects.  My previous research was on plastics pollution."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
