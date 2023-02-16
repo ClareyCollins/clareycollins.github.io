@@ -7,6 +7,9 @@ tags:
   - plastic
 ---
 
+Graphics for our "Top tips for tackling plastic pollution from marine scientists" article in The Conversation 
+<https://theconversation.com/top-tips-for-tackling-plastic-pollution-from-marine-scientists-164602>
+
 {% include figure image_path="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png" alt="Infographic showing length of time coronavirus was still traceable on four different surfaces.  Still on day 7 of the surgical mask, no longer on day 7 for the plastic surface, no longer on day 2 for the cloth surface and no longer after 3 hours on the paper surface." caption="Time until no infectious virus could be recovered on different surfaces. <br>Using data from: Chin et al. (2020) DOI: 10.1016/S2666-5247(20)30003-3" %}
 <a href="https://filedn.eu/lpcVXTG45C9pRyFKDmXHShY/virus-stabilityCC.png">virus-stabilityCC.png</a>
 
