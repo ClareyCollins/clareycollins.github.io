@@ -15,3 +15,12 @@ I am a conservation biologist interested in rewilding, biodiversity and understa
 <br>My current research is using eDNA modelling for effective biodiversity monitoring in river rewilding projects.
 <br>
 <br>My previous research used a relatively pristine marine environment of the Southern Ocean around the subantarctic island of South Georgia to understand to what extent fish are ingesting plastics when plastics pollution levels are lower. Fish are ingesting plastics in areas of high human activity; data from remote locations are limited, but vital for defining the scale of the problem.  This research additionally establishes baseline data for monitoring pollution in a Marine Protected Area.
+<br>
+<br>
+<ul>
+   {% for post in site.posts %}
+     <li>
+       <a href="{{ post.url }}">{{ post.title }}</a>
+     </li>
+   {% endfor %}
+ </ul>
