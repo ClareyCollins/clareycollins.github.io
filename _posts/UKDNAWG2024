@@ -1,0 +1,15 @@
+---
+layout: default
+title: "Poster for UK DNA Working Group Meeting 25-26th April 2024"
+date: 2024-04-24
+categories:
+  - resources
+tags:
+  - eDNA
+  - river rewilding
+  - PhD
+  - biodiversity
+---
+
+{% include figure image_path="/assets/images/UKDNAWG_2024_CCposter_FINAL.png" alt="Poster presentation on work done so far in my PhD on effective biodiversity monitoring for river rewilding projects using eDNA modeling" caption="Poster updating on my PhD, presented at UKDNAWG Apr 2024." %}
+<a href="/assets/images/UKDNAWG_2024_CCposter_FINAL.png">UKDNAWG_20240424-25_CCposter</a>
