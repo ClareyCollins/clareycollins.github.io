@@ -19,8 +19,10 @@ title: Clare E Collins
 email: c.collins-2019@hull.ac.uk
 description: >- # this means to ignore newlines until "baseurl:"
   I am a conservation biologist with interests in conservation, biodiversity and understanding anthropogenic impacts on our World. My current research uses eDNA modelling for effective biodiversity monitoring in river rewilding projects.  Find my resources, outputs and blog posts here.
-twitter_username: clareycollins
+#twitter_username: clareycollins
 #github_username: username
+linkedin_username: clareycollins
+bluesky_username: clareycollins.bsky.social
 minimal_mistakes_skin: default
 search: true
 
@@ -65,9 +67,12 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://clareycollins.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ClareyCollins"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/clareycollins.bsky.social"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/clareycollins/"
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "https://github.com/"
@@ -77,9 +82,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ClareyCollins"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/clareycollins/"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://clareycollins.github.io"
+    - label: "Bluesky"
+      icon: "fab fa-fw fa-bluesky"
+      url: "https://bsky.app/profile/clareycollins.bsky.social" 
     #- label: "GitHub"
     #  icon: "fab fa-fw fa-github"
     #  url: "https://github.com/"
